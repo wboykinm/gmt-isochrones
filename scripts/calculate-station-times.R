@@ -26,12 +26,3 @@ for (stop_id in stops$stop_id) {
     write.csv(x, paste0("/Users/bmorris/github/gmt-isochrones/data/durations/",stop_id, ".csv"), row.names=FALSE)
   
 }
-
-
-
-
-
-
-
-
-# 

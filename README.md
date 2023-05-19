@@ -1,10 +1,10 @@
-# nyc-subway-isochrones
+# gmt-isochrones
 
 Scripts (nodejs and R) for generating travel time isochrones from stations in the New York City subway.
 
 ## Workflow
 
-1. Start with the [NYC Subway static GTFS file](http://web.mta.info/developers/developer-data-terms.html#data)
+1. Start with the [GMT static GTFS file](https://data.trilliumtransit.com/gtfs/ccta-vt-us/ccta-vt-us.zip)
 
 `/data/ccta-vt-us.zip` (unzipped to `data/ccta_vt_us/`)
 
