@@ -1,0 +1,7 @@
+zone_id,zone_name
+1061,Middlebury/Vergennes/Ferrisburgh
+1062,Richmond
+1083,St. Albans/Georgia
+2432,Burlington
+2433,Waterbury
+2434,Montepelier

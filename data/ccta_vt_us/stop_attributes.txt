@@ -1,0 +1,1105 @@
+stop_id,stop_city
+2324951,Berlin
+806216,Montpelier
+2574428,Stowe
+805719,Burlington
+806436,Stowe
+805512,South Burlington
+805576,Shelburne
+805503,South Burlington
+806199,Saint Albans
+806250,Montpelier
+805847,Essex Junction
+805660,Burlington
+806242,Barre
+805949,Burlington
+805810,Colchester
+3461716,Burlington
+806153,Essex Junction
+805684,Burlington
+806475,Waitsfield
+805930,Burlington
+806467,Warren
+805753,Burlington
+806507,Northfield
+806406,Saint Albans
+805687,Burlington
+806205,Waterbury
+806335,East Montpelier
+2574427,Stowe
+805835,Essex Junction
+805562,Shelburne
+2574443,Stowe
+806308,Montpelier
+805801,Essex Junction
+806421,Stowe
+2324953,Stowe
+806290,Montpelier
+806182,Burlington
+805613,Burlington
+805887,Essex Junction
+808990,Barre
+806157,Jeffersonville
+806238,Barre
+806061,Burlington
+805936,Burlington
+805572,Shelburne
+805730,Burlington
+806392,Saint Albans
+805829,Burlington
+805539,Burlington
+806165,Colchester
+806224,Montpelier
+805705,Burlington
+806303,Williamstown
+805549,Burlington
+805588,South Burlington
+805485,Burlington
+806124,Milton
+805841,Essex Junction
+805996,Williston
+806307,Montpelier
+806016,Burlington
+805581,Shelburne
+805643,Burlington
+806067,Winooski
+805675,Burlington
+806075,South Burlington
+805851,Essex Junction
+806218,Montpelier
+805688,Burlington
+806121,Milton
+805711,Burlington
+806249,Montpelier
+805723,Burlington
+805933,Burlington
+849122,Burlington
+815404,Burlington
+806253,Montpelier
+806029,Burlington
+805592,South Burlington
+805946,South Burlington
+808190,Shelburne
+805895,Williston
+806409,Swanton
+806258,Montpelier
+805565,Shelburne
+806294,Barre
+805779,Essex Junction
+805808,Colchester
+805733,Burlington
+806287,Waterbury
+805824,Burlington
+806431,Stowe
+805853,Essex Junction
+805831,Essex Junction
+806164,Colchester
+805712,Burlington
+806071,Burlington
+806401,Saint Albans
+2578114,Barre City
+805792,Essex Junction
+805716,Burlington
+805763,Winooski
+824588,Hinesburg
+805495,South Burlington
+805741,Burlington
+806202,Middlesex
+805560,Shelburne
+806070,Essex Junction
+806276,Barre
+806233,Barre
+806456,Waitsfield
+805493,South Burlington
+805819,Winooski
+805561,Shelburne
+805532,Burlington
+805551,South Burlington
+806373,Swanton
+2574426,Stowe
+806438,Stowe
+806072,Burlington
+805860,Essex Junction
+806403,Saint Albans
+805669,Burlington
+806483,Warren
+806053,Fairfax
+806222,Montpelier
+806326,Montpelier
+805905,Burlington
+815362,Burlington
+806412,Saint Albans
+806468,Warren
+806274,Barre
+805840,Essex Junction
+805811,Colchester
+805802,Essex Junction
+805775,Colchester
+805559,Shelburne
+805986,Winooski
+806512,Northfield
+805750,Burlington
+805918,Burlington
+805612,Burlington
+806488,Montpelier
+806295,Montpelier
+806395,Saint Albans
+805516,South Burlington
+805864,Essex Junction
+805575,Shelburne
+806100,Williston
+806150,Winooski
+806189,Saint Albans
+806291,Barre
+806353,Montpelier
+806516,Warren
+2574434,Stowe
+2456439,South Burlington
+806297,Barre
+805507,South Burlington
+805738,Burlington
+806503,Stowe
+805876,Burlington
+806096,Williston
+806000,Burlington
+805631,Winooski
+806382,Enosburg Falls
+806045,Williston
+805943,South Burlington
+805664,Burlington
+805904,Williston
+806036,Williston
+805732,Burlington
+805623,Winooski
+805513,South Burlington
+806077,South Burlington
+3447219,Berlin
+806193,Saint Albans
+805710,Burlington
+847926,Milton
+805886,Essex Junction
+805917,Essex Junction
+805975,South Burlington
+806161,Essex Junction
+2574484,Fayston
+805571,Shelburne
+806473,Waitsfield
+2556012,Essex
+806151,Winooski
+805823,Burlington
+808987,Saint Albans
+805683,Burlington
+806270,Barre
+806498,Morrisville
+805938,Burlington
+2574442,Stowe
+805563,Shelburne
+806017,Burlington
+806289,Waterbury
+806030,Burlington
+805852,Essex Junction
+805798,Essex Junction
+805528,South Burlington
+806252,Montpelier
+805708,Burlington
+805929,Burlington
+805758,Burlington
+806187,Saint Albans
+806033,South Burlington
+805820,Burlington
+805720,Burlington
+805992,Burlington
+806115,South Burlington
+805508,South Burlington
+805722,Burlington
+806283,Barre
+806364,Swanton
+805868,South Burlington
+805586,Shelburne
+805948,South Burlington
+806380,Sheldon Springs
+805608,Burlington
+805785,Essex Junction
+806186,Saint Albans
+805850,Essex Junction
+805809,Colchester
+806482,Warren
+2562338,Burlington
+806005,Burlington
+806434,Stowe
+806429,Stowe
+806459,Waitsfield
+806496,Stowe
+805839,Essex Junction
+806086,Williston
+805679,Burlington
+805878,Burlington
+812018,South Burlington
+805506,South Burlington
+806513,Northfield
+806365,Swanton
+806160,Essex Junction
+805954,Burlington
+806432,Stowe
+806037,Essex Junction
+806480,Waitsfield
+2574433,Stowe
+806108,Williston
+805603,Burlington
+805499,South Burlington
+805931,Burlington
+2574482,Fayston
+805863,Essex Junction
+805655,Burlington
+806266,Barre
+806177,Winooski
+806399,Saint Albans
+805790,Essex Junction
+805783,Essex Junction
+806062,South Burlington
+805977,South Burlington
+805530,South Burlington
+805519,South Burlington
+806026,Shelburne
+806047,Winooski
+806197,Saint Albans
+806169,Colchester
+806457,Warren
+806118,Milton
+806032,Williston
+805590,South Burlington
+3446951,Montpelier
+805767,Colchester
+806201,Middlesex
+805985,Essex Junction
+805761,Burlington
+806386,Saint Albans
+806424,Stowe
+805972,Williston
+805795,Essex Junction
+805630,Winooski
+815361,Burlington
+805805,Essex Junction
+805522,South Burlington
+805966,Williston
+805740,Burlington
+2562322,Burlington
+805833,Essex Junction
+805624,Winooski
+806267,Barre
+806370,Highgate Center
+805900,Williston
+805501,South Burlington
+806351,Plainfield
+811180,Burlington
+806366,Alburg
+805925,Burlington
+806020,Montpelier
+805908,Burlington
+805668,Burlington
+2574435,Stowe
+805706,Burlington
+805993,Burlington
+805534,Burlington
+805746,Burlington
+805869,South Burlington
+806213,Middlesex
+3461013,Stowe
+805625,Winooski
+805649,Burlington
+805891,South Burlington
+806094,Williston
+806378,Richford
+806330,Montpelier
+805510,South Burlington
+2387295,Waterbury
+805577,Shelburne
+806208,Waterbury
+806268,Barre
+806050,Saint Albans
+806426,Stowe
+805633,Winooski
+805968,Williston
+806318,Montpelier
+849474,Burlington
+806369,Saint Albans
+806230,Montpelier
+805553,South Burlington
+814364,Burlington
+806098,Williston
+805699,Burlington
+806305,Barre
+806081,South Burlington
+806362,Fairfax
+806332,Montpelier
+806306,Barre
+805974,Williston
+805947,South Burlington
+806083,Williston
+805617,Burlington
+805518,South Burlington
+805656,Burlington
+806315,Montpelier
+806311,Montpelier
+805832,Essex Junction
+805770,Colchester
+2562347,Burlington
+806004,Burlington
+805644,Burlington
+806319,Montpelier
+806006,Essex Junction
+805651,Burlington
+805726,Burlington
+805583,Shelburne
+812015,Burlington
+805788,Essex Junction
+2574445,Stowe
+806419,Stowe
+805998,Essex Junction
+806162,Essex Junction
+805787,Essex Junction
+805717,Burlington
+806236,Barre
+805596,Burlington
+805855,Essex Junction
+805514,South Burlington
+3461016,Grand Isle
+805791,Essex Junction
+805546,Burlington
+806408,Saint Albans
+806506,Northfield
+806485,Warren
+806131,South Burlington
+805882,Burlington
+806209,Waterbury
+805640,Burlington
+806085,Williston
+2574429,Stowe
+805845,Essex Junction
+806223,Montpelier
+805940,Burlington
+805734,Burlington
+806175,Milton
+805635,Burlington
+805752,Burlington
+805533,Burlington
+806358,Northfield
+806087,Williston
+805963,Williston
+806293,Barre
+806066,Burlington
+812017,Essex Junction
+806095,Williston
+806466,Warren
+806494,Waterbury
+806035,Williston
+806076,South Burlington
+805902,Williston
+806341,Plainfield
+806027,Colchester
+806191,Winooski
+805818,Winooski
+806360,Northfield
+805564,Shelburne
+805714,Burlington
+806337,Plainfield
+805657,Burlington
+806190,Winooski
+805892,South Burlington
+4160876,Stowe
+806497,Morrisville
+806491,Warren
+806126,Milton
+805598,Burlington
+805861,Essex Junction
+805696,Burlington
+849123,Burlington
+805962,South Burlington
+2574430,Stowe
+805703,Burlington
+806099,Williston
+806210,Waterbury
+2574481,Fayston
+805678,Burlington
+806314,Montpelier
+812010,Saint Albans
+806458,Warren
+806470,Warren
+806400,Saint Albans
+805642,Burlington
+806171,Colchester
+805911,Burlington
+808206,Barre
+806405,Saint Albans
+806195,Saint Albans
+806221,Montpelier
+805921,Burlington
+806056,Ferrisburg
+806393,Saint Albans
+806196,Saint Albans
+806152,Essex Junction
+806298,Barre
+806023,Burlington
+805616,Burlington
+806054,North Ferrisburg
+812009,Montpelier
+806140,Essex Junction
+806505,Northfield
+805505,South Burlington
+805769,Colchester
+805621,Winooski
+806137,Burlington
+805698,Burlington
+805817,Winooski
+805952,Burlington
+805879,Burlington
+805898,Williston
+805735,Burlington
+806141,Hinesburg
+806460,Warren
+806235,Barre
+2574438,Stowe
+805650,Burlington
+805757,Burlington
+806207,Waterbury
+2576328,Irasville
+805509,South Burlington
+806376,Swanton
+806044,Williston
+805924,Burlington
+806442,Stowe
+805890,Shelburne
+805554,South Burlington
+805797,Essex Junction
+805674,Burlington
+805600,Burlington
+806139,Waterbury
+2574477,Irasville
+805843,Essex Junction
+806158,Cambridge
+815405,Burlington
+805973,Williston
+806181,Hinesburg
+806461,Waitsfield
+2574444,Montpelier
+806413,Saint Albans
+2526188,Essex
+815412,Burlington
+805666,Burlington
+805959,South Burlington
+805547,Burlington
+805541,Burlington
+806495,Waterbury
+2324956,Waitsfield
+805906,Burlington
+2574437,Stowe
+2562345,Burlington
+806377,Swanton
+815407,Burlington
+805866,Essex Junction
+805995,Burlington
+2562340,Burlington
+805545,Burlington
+806040,Williston
+3453482,Burlington
+806021,Richmond
+805543,Burlington
+806065,Burlington
+805567,Shelburne
+805636,Burlington
+805496,South Burlington
+805531,Burlington
+805745,Burlington
+806174,Shelburne
+805796,Essex Junction
+2530427,South Burlington
+806402,Saint Albans
+806103,Williston
+805907,Shelburne
+805492,South Burlington
+805500,South Burlington
+805848,Essex Junction
+805627,Winooski
+805873,South Burlington
+806025,Shelburne
+805573,Shelburne
+805618,Burlington
+805980,South Burlington
+806374,Swanton
+806327,Montpelier
+806092,Williston
+805865,Essex Junction
+805927,Burlington
+2574483,Fayston
+806015,Winooski
+805894,South Burlington
+805663,Burlington
+808151,Swanton
+805806,Colchester
+806489,Montpelier
+805880,Burlington
+806280,Montpelier
+806009,Burlington
+805872,South Burlington
+806104,Williston
+808150,Swanton
+806397,Saint Albans
+806112,Williston
+805983,South Burlington
+805591,South Burlington
+805537,Burlington
+806192,Winooski
+806034,Williston
+806011,Burlington
+805728,Burlington
+805619,Burlington
+806130,Essex Junction
+806119,Milton
+806368,Fairfax
+806055,Vergennes
+806292,Montpelier
+806288,Waterbury
+806113,South Burlington
+805690,Burlington
+805670,Burlington
+806323,Montpelier
+805944,South Burlington
+805990,Winooski
+3449831,Stowe
+805538,Burlington
+805536,Burlington
+2574470,Sugarbush Village
+806043,Williston
+806080,South Burlington
+805935,Burlington
+849473,Burlington
+806490,Waterbury
+806049,Montpelier
+805555,South Burlington
+806149,Milton
+805991,Winooski
+806464,Waitsfield
+805932,Burlington
+805736,South Burlington
+820652,Hinesburg
+805926,Burlington
+805914,Essex Junction
+2562336,Burlington
+805778,Essex Junction
+805875,Burlington
+805566,Shelburne
+806204,Waterbury
+805629,Winooski
+806357,Northfield
+805754,Burlington
+806463,Moretown
+805922,Burlington
+806229,Montpelier
+805915,Essex Junction
+2455768,Barre City
+805836,Essex Junction
+806384,Richford
+805919,Burlington
+805614,Burlington
+806316,Montpelier
+805920,Burlington
+805502,South Burlington
+806248,Montpelier
+806200,Montpelier
+805725,Burlington
+805804,Essex Junction
+806122,Milton
+806359,Northfield
+806508,Northfield
+805524,South Burlington
+805756,Burlington
+805765,Colchester
+2574439,Stowe
+805881,Burlington
+805686,Burlington
+805830,Essex Junction
+806487,Warren
+820730,Winooski
+806058,Middlebury
+806284,Waterbury
+805610,Burlington
+849467,Burlington
+806180,Burlington
+3461017,Barre City
+806286,Waterbury
+805827,Burlington
+805615,Burlington
+806014,Colchester
+805994,Burlington
+806299,Barre
+805535,Burlington
+805645,Burlington
+805602,Burlington
+806472,Warren
+806232,Barre
+809015,Saint Albans
+806052,Colchester
+806110,Williston
+805934,Burlington
+805815,Colchester
+811192,Waterbury
+806028,Shelburne
+805800,Essex Junction
+805988,Burlington
+805939,Burlington
+806345,Plainfield
+805626,Winooski
+805978,South Burlington
+806022,Waterbury
+805700,Burlington
+806493,Waterbury
+805724,Burlington
+808986,Saint Albans
+806178,South Burlington
+805721,Burlington
+805941,Burlington
+806481,Warren
+805676,Burlington
+805759,Burlington
+2562331,Burlington
+824587,Hinesburg
+806391,Saint Albans
+2574432,Stowe
+2556013,Essex
+2484315,Middlebury
+2574472,Sugarbush Village
+806285,Waterbury
+815411,Burlington
+806388,Saint Albans
+805953,Burlington
+805793,Essex Junction
+805727,Burlington
+806336,Plainfield
+807736,Saint Albans
+806383,Enosburg Falls
+805942,Burlington
+805846,Essex Junction
+2745400,Burlington
+806215,Montpelier
+805570,Shelburne
+806338,Marshfield
+3449830,Stowe
+806245,Montpelier
+805987,Burlington
+806261,Montpelier
+806453,Stowe
+806219,Montpelier
+806329,Saint Johnsbury
+806073,Winooski
+805958,Burlington
+824586,Hinesburg
+805742,Burlington
+805652,Burlington
+806385,Saint Albans
+806203,Waterbury
+806088,Williston
+805889,Shelburne
+805739,Burlington
+805647,Burlington
+2562351,Burlington
+806069,South Burlington
+805692,Burlington
+806146,South Burlington
+806155,Jericho
+806443,Morrisville
+806089,Williston
+805520,South Burlington
+805654,Burlington
+824585,Hinesburg
+805593,South Burlington
+805521,South Burlington
+805989,Winooski
+806279,Barre
+806024,Burlington
+806090,Williston
+847532,Winooski
+806379,Richford
+805718,Burlington
+805961,Williston
+805515,South Burlington
+805981,South Burlington
+805527,South Burlington
+805771,Colchester
+805776,Essex Junction
+805807,Colchester
+805814,Colchester
+806234,Barre
+806039,Burlington
+805484,Burlington
+806060,North Ferrisburg
+806116,South Burlington
+806381,Richford
+805782,Essex Junction
+806407,Swanton
+805849,Essex Junction
+805673,Burlington
+805883,Burlington
+805641,Burlington
+806433,Stowe
+806051,Saint Albans
+2734696,Burlington
+805871,Burlington
+806265,Montpelier
+806127,Milton
+806300,Barre
+2556010,Essex
+805632,Winooski
+806194,Saint Albans
+806422,Stowe
+806465,Warren
+805870,Burlington
+806188,Saint Albans
+805951,Burlington
+849124,Burlington
+806145,South Burlington
+806154,Jericho
+805999,Burlington
+805729,Burlington
+806509,Northfield
+2578126,Barre City
+806321,Montpelier
+805888,South Burlington
+2387293,Barre City
+805842,Essex Junction
+3447220,Barre City
+806220,Montpelier
+805838,Essex Junction
+805967,Essex Junction
+806427,Stowe
+849476,Burlington
+806084,Williston
+806109,Williston
+805620,Burlington
+805569,Shelburne
+805997,Williston
+809080,Burlington
+805589,South Burlington
+806425,Stowe
+806091,Essex Junction
+805755,Burlington
+806262,Montpelier
+805877,Burlington
+2324954,Barre
+805587,South Burlington
+805578,Shelburne
+806018,Montpelier
+815406,Burlington
+805622,Winooski
+805912,Shelburne
+805816,Winooski
+806477,Warren
+805857,Essex Junction
+805854,Essex Junction
+805639,Burlington
+805747,Burlington
+805773,Colchester
+806471,Warren
+805789,Essex Junction
+806255,Montpelier
+806010,Burlington
+806057,Middlebury
+806129,Milton
+2574479,Irasville
+806226,Montpelier
+806301,Barre
+805777,Essex Junction
+805540,Burlington
+806031,Winooski
+805884,Burlington
+805682,Burlington
+806048,Essex Junction
+805558,Shelburne
+806170,Colchester
+805638,Burlington
+805511,South Burlington
+806102,Williston
+805517,South Burlington
+805488,Burlington
+805896,Williston
+805685,Burlington
+805653,Burlington
+806082,Williston
+806002,Burlington
+805607,Burlington
+805780,Essex Junction
+805497,South Burlington
+805937,Burlington
+805856,Essex Junction
+805648,Burlington
+806117,Milton
+805828,Burlington
+806228,Montpelier
+806367,Swanton
+805634,Winooski
+809081,Burlington
+805526,South Burlington
+806320,Montpelier
+806256,Montpelier
+805677,Burlington
+805913,Essex Junction
+2394605,Barre City
+805672,Burlington
+806428,Stowe
+2394604,Barre City
+806331,Montpelier
+806184,Saint Albans
+806101,Williston
+806046,Williston
+805701,Burlington
+805494,South Burlington
+805822,Burlington
+806264,Montpelier
+806179,Burlington
+806439,Stowe
+806019,Montpelier
+806474,Waitsfield
+806211,Middlesex
+806136,Waterbury
+805826,Burlington
+806107,Williston
+805960,South Burlington
+805523,South Burlington
+806167,Colchester
+805874,Burlington
+805659,Burlington
+805713,Burlington
+805579,Shelburne
+2530430,Burlington
+806064,South Burlington
+806309,Montpelier
+805976,South Burlington
+805781,Essex Junction
+2556009,Essex
+805751,Burlington
+805529,South Burlington
+2574478,Irasville
+806363,Saint Albans
+806063,South Burlington
+806390,Saint Albans
+806375,Swanton
+806322,Montpelier
+805557,Shelburne
+806486,Warren
+805552,South Burlington
+806059,Charlotte
+806492,Montpelier
+805568,Shelburne
+806105,Williston
+805490,Burlington
+805812,Colchester
+806478,Waitsfield
+2324952,Stowe
+806244,Montpelier
+806106,Williston
+4160865,Williston
+806514,Northfield
+806484,Warren
+805867,Burlington
+2574475,Warren
+4160867,Stowe
+806346,Plainfield
+2319672,Burlington
+2535799,Winooski
+2324955,St. Albans Town
+805916,Essex Junction
+805637,Burlington
+806313,Montpelier
+805662,Burlington
+806361,Northfield
+805498,South Burlington
+2574431,Stowe
+806128,Milton
+805595,South Burlington
+806260,Montpelier
+805693,Burlington
+805582,Shelburne
+805486,Burlington
+805956,Burlington
+805923,Burlington
+806159,Jericho
+805599,Burlington
+805695,Burlington
+805885,Burlington
+805979,South Burlington
+805594,South Burlington
+2574480,Waitsfield Common
+805899,Williston
+805680,Burlington
+2484308,Middlebury
+806247,Montpelier
+805628,Winooski
+806371,Alburg
+805862,Essex Junction
+806042,Burlington
+808189,Vergennes
+805737,Burlington
+806263,Montpelier
+806012,Essex Junction
+805609,Burlington
+805525,South Burlington
+806254,Montpelier
+806240,Barre
+806143,Hinesburg
+2578133,Berlin
+805950,Burlington
+805709,Burlington
+806325,Montpelier
+806166,Colchester
+805681,Burlington
+2574473,East Warren
+805744,Burlington
+805784,Essex Junction
+805611,Burlington
+2615617,Barre City
+2555229,Northfield
+808205,Barre
+806282,Montpelier
+2740329,Williston
+806257,Montpelier
+805748,Burlington
+812296,Stowe
+806372,Swanton
+805786,Essex Junction
+806504,Northfield
+806120,Milton
+805665,Burlington
+806251,Montpelier
+806389,Saint Albans
+2574474,Irasville
+806296,Barre
+2574440,Stowe
+805893,South Burlington
+806142,Hinesburg
+805504,South Burlington
+805766,Colchester
+805957,Essex Junction
+806001,Burlington
+2574545,Nourses Corner
+806093,Williston
+806183,Williston
+806479,Waitsfield
+805601,Burlington
+805945,South Burlington
+805844,Essex Junction
+805605,Burlington
+806068,Winooski
+806163,Jeffersonville
+805597,Burlington
+805859,Essex Junction
+806420,Stowe
+3461014,Moretown
+805548,Burlington
+806198,Saint Albans
+806411,Saint Albans
+805955,Burlington
+4160875,Stowe
+811412,Warren
+806387,Saint Albans
+805743,Burlington
+806324,Montpelier
+806317,Montpelier
+805702,Burlington
+805772,Colchester
+805585,Shelburne
+2556011,Burlington
+2562335,Burlington
+805491,South Burlington
+806078,South Burlington
+806148,Winooski
+805901,Williston
+805606,Burlington
+805825,Burlington
+805550,Burlington
+805542,Burlington
+806437,Stowe
+805580,Shelburne
+805556,South Burlington
+806312,Montpelier
+805762,Burlington
+805964,Williston
+806206,Middlesex
+805544,Burlington
+806079,South Burlington
+806328,Montpelier
+806156,Cambridge
+2574471,Sugarbush Village
+805697,Burlington
+806310,Montpelier
+806302,Williamstown
+806007,Essex Junction
+806041,Shelburne
+806462,Waitsfield
+805858,Essex Junction
+805764,Winooski
+805658,Burlington
+805487,Burlington
+806271,Barre
+805574,Shelburne
+805910,Burlington
+824589,Hinesburg
+805671,Burlington
+805969,Williston
+805909,Burlington
+3461018,Montpelier
+806410,Swanton
+806074,South Burlington
+805794,Essex Junction
+805774,Colchester
+806038,Essex Junction
+2574441,Stowe
+2574436,Stowe
+805584,Shelburne
+808997,Waterbury
+805689,Burlington
+3461012,Stowe
+805837,Essex Junction
+806172,Middlebury
+805604,Burlington
+806304,Barre
+806511,Northfield
+806269,Montpelier
+805928,Burlington
+806123,Milton
+805489,Burlington
+806013,Colchester
+806273,Barre
+806212,Montpelier
+805749,Burlington
+2574476,Irasville
+2387294,Waterbury
+806168,Colchester
+806185,Saint Albans
+805715,Burlington
+805982,South Burlington
+805667,Burlington
+805768,Colchester
+806500,Waterbury Center
+805704,Burlington
+806241,Barre
+805821,Burlington
+805803,Essex Junction
+805707,Burlington
+806114,South Burlington
+805760,Burlington
+805731,Burlington
+806097,Williston
+806144,Hinesburg
+806281,Montpelier
+820638,Burlington
+806003,Burlington
+3461015,Williston
+806423,Stowe
+806398,Saint Albans
+2573649,Burlington
+2456440,South Burlington
+805799,Essex Junction
+806499,Waterbury
+805813,Colchester
+806469,Warren
+806125,Milton
+4148001,Barre City

@@ -1,0 +1,3 @@
+agency_id,agency_url,agency_lang,agency_name,agency_phone,agency_timezone,agency_fare_url,tts_agency_name
+885,https://sstarides.org/,en,Special Services Transportation Agency,802-878-1527,America/New_York,,
+461,http://ridegmt.com/,en,Green Mountain Transit,802-223-7287,America/New_York,http://ridegmt.com/gmt-fares/,

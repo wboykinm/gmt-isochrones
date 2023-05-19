@@ -7,7 +7,7 @@ import turfIntersect from '@turf/intersect'
 import flatten from 'geojson-flatten'
 import fs from 'fs'
 
-import nycShorelineClip from './data/nyc-shoreline-clip-multi.json' assert { type: 'json' };
+import vtShorelineClip from './data/vt_hydro.json' assert { type: 'json' };
 
 
 const intersectWithShoreline = (FC) => {
@@ -16,7 +16,7 @@ const intersectWithShoreline = (FC) => {
         features: FC.features.map((feature) => {
             let clippedFeature = feature
             try {
-                const intersection = turfIntersect(clippedFeature, nycShorelineClip)
+                const intersection = turfIntersect(clippedFeature, vtShorelineClip)
                 if (intersection) {
                     clippedFeature = intersection
                 }

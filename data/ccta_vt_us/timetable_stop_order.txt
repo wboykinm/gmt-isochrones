@@ -1,0 +1,23 @@
+timetable_id,stop_id,stop_sequence,stop_name,connected_routes
+4338,806268,1,Dollar General,"80/89/City Route Mid-Day/City Commuter, 81/Barre Hospital Hill"
+4338,806273,2,N Main Street at Barre District Court,"80/89/City Route Mid-Day/City Commuter, 81/Barre Hospital Hill, 97/Barre LINK Express"
+4338,806241,3,Price Chopper/Staples,80/89/City Route Mid-Day/City Commuter
+4338,806242,4,McDonald's / Twin City Plaza,80/89/City Route Mid-Day/City Commuter
+4338,2574444,5,Montpelier Transit Center,"80/89/City Route Mid-Day/City Commuter, 82/Montpelier Hospital Hill, 83/Waterbury Commuter, 84/US 2 Commuter, 86/Montpelier LINK Express, 92/Montpelier Circulator, 93/Northfield Commuter"
+4339,2574444,1,Montpelier Transit Center,"80/89/City Route Mid-Day/City Commuter, 82/Montpelier Hospital Hill, 83/Waterbury Commuter, 84/US 2 Commuter, 86/Montpelier LINK Express, 92/Montpelier Circulator, 93/Northfield Commuter"
+4339,806226,2,River Street at Berlin Street,80/89/City Route Mid-Day/City Commuter
+4339,806232,3,Burger King/CVMC,80/89/City Route Mid-Day/City Commuter
+4339,806241,4,Price Chopper/Staples,80/89/City Route Mid-Day/City Commuter
+4339,806266,5,N Main Street at Depot Square (Opposite Courthouse),"80/89/City Route Mid-Day/City Commuter, 81/Barre Hospital Hill"
+4339,806268,6,Dollar General,"80/89/City Route Mid-Day/City Commuter, 81/Barre Hospital Hill"
+4340,806268,1,Dollar General,"80/89/City Route Mid-Day/City Commuter, 81/Barre Hospital Hill"
+4340,806273,2,N Main Street at Barre District Court,"80/89/City Route Mid-Day/City Commuter, 81/Barre Hospital Hill, 97/Barre LINK Express"
+4340,806241,3,Price Chopper/Staples,80/89/City Route Mid-Day/City Commuter
+4340,806242,4,McDonald's / Twin City Plaza,80/89/City Route Mid-Day/City Commuter
+4340,2574444,5,Montpelier Transit Center,"80/89/City Route Mid-Day/City Commuter, 82/Montpelier Hospital Hill, 83/Waterbury Commuter, 84/US 2 Commuter, 86/Montpelier LINK Express, 92/Montpelier Circulator, 93/Northfield Commuter"
+4341,2574444,1,Montpelier Transit Center,"80/89/City Route Mid-Day/City Commuter, 82/Montpelier Hospital Hill, 83/Waterbury Commuter, 84/US 2 Commuter, 86/Montpelier LINK Express, 92/Montpelier Circulator, 93/Northfield Commuter"
+4341,806226,2,River Street at Berlin Street,80/89/City Route Mid-Day/City Commuter
+4341,806232,3,Burger King/CVMC,80/89/City Route Mid-Day/City Commuter
+4341,806241,4,Price Chopper/Staples,80/89/City Route Mid-Day/City Commuter
+4341,806266,5,N Main Street at Depot Square (Opposite Courthouse),"80/89/City Route Mid-Day/City Commuter, 81/Barre Hospital Hill"
+4341,806268,6,Dollar General,"80/89/City Route Mid-Day/City Commuter, 81/Barre Hospital Hill"

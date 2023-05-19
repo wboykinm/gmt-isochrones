@@ -1,0 +1,74 @@
+route_id,direction_id,direction
+74419,0,Loop
+74418,0,Loop
+74417,0,Loop
+74416,0,Loop
+74415,0,Loop
+74414,0,Loop
+74413,0,Loop
+74412,0,Loop
+74411,0,Loop
+74410,0,Loop
+74409,0,Loop
+32942,0,No direction
+32941,0,No direction
+19145,1,Inbound
+19145,0,Outbound
+19144,0,Loop
+19143,0,Loop
+19142,1,Inbound
+19142,0,Outbound
+19141,1,Northbound
+19141,0,Southbound
+19140,1,Northbound
+19140,0,Southbound
+19139,1,Inbound
+19139,0,Outbound
+19138,1,Inbound
+19138,0,Outbound
+19137,1,Inbound
+19137,0,Outbound
+13498,0,Loop
+13497,0,Loop
+13496,0,Loop
+11183,0,No direction
+11182,0,No direction
+7458,0,No direction
+7455,0,No direction
+3197,1,Inbound
+3197,0,Outbound
+3196,1,Westbound
+3196,0,Eastbound
+3195,1,Northbound
+3195,0,Southbound
+3194,0,Loop
+3191,0,Loop
+3190,0,Loop
+3188,0,Loop
+3186,1,Inbound
+3186,0,Outbound
+3183,1,Downhill
+3183,0,Uphill
+3181,1,Northbound
+3181,0,Southbound
+3177,1,Inbound
+3177,0,Outbound
+3176,1,Northbound
+3176,0,Southbound
+3174,1,Inbound
+3174,0,Outbound
+3172,1,Inbound
+3172,0,Outbound
+3171,1,Northbound
+3171,0,Southbound
+3168,1,Northbound
+3168,0,Southbound
+3167,1,Westbound
+3167,0,Eastbound
+3165,1,Northbound
+3165,0,Southbound
+3164,1,Northbound
+3164,0,Southbound
+3163,1,Northbound
+3163,0,Southbound
+3153,1,Northbound

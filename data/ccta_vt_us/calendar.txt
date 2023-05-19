@@ -1,0 +1,37 @@
+service_id,service_name,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+c_69253_b_80213_d_8,CCTA Year Round Starting 3/20/23 (Thurday only),0,0,0,1,0,0,0,20230320,20231101
+c_69253_b_80213_d_64,CCTA Year Round Starting 3/20/23 (Sunday only),0,0,0,0,0,0,1,20230320,20231101
+c_69253_b_80213_d_4,CCTA Year Round Starting 3/20/23 (Wednesday only),0,0,1,0,0,0,0,20230320,20231101
+c_69253_b_80213_d_32,CCTA Year Round Starting 3/20/23 (Saturday only),0,0,0,0,0,1,0,20230320,20231101
+c_69253_b_80213_d_31,CCTA Year Round Starting 3/20/23 (Weekday),1,1,1,1,1,0,0,20230320,20231101
+c_69253_b_80213_d_27,CCTA Year Round Starting 3/20/23 (MTuThF),1,1,0,1,1,0,0,20230320,20231101
+c_69253_b_80213_d_2,CCTA Year Round Starting 3/20/23 (Tuesday only),0,1,0,0,0,0,0,20230320,20231101
+c_67793_b_78464_d_31,R108 Off Peak starting 11/25/22 (Weekday),1,1,1,1,1,0,0,20221125,20230409
+c_67792_b_78463_d_96,R108 Peak starting 11/26/22 (Weekend),0,0,0,0,0,1,1,20221126,20230409
+c_67220_b_77372_d_4,Central Vermont starting 6/13/22 (Wednesday only),0,0,1,0,0,0,0,20220720,20231101
+c_67220_b_77372_d_32,Central Vermont starting 6/13/22 (Saturday only),0,0,0,0,0,1,0,20220720,20231101
+c_67220_b_77372_d_31,Central Vermont starting 6/13/22 (Weekday),1,1,1,1,1,0,0,20220720,20231101
+c_67220_b_77372_d_2,Central Vermont starting 6/13/22 (Tuesday only),0,1,0,0,0,0,0,20220720,20231101
+c_24341_b_34029_d_8,Flex Year Round (Thurday only),0,0,0,1,0,0,0,20220201,20231101
+c_24341_b_34029_d_64,Flex Year Round (Sunday only),0,0,0,0,0,0,1,20220201,20231101
+c_24341_b_34029_d_4,Flex Year Round (Wednesday only),0,0,1,0,0,0,0,20220201,20231101
+c_24341_b_34029_d_32,Flex Year Round (Saturday only),0,0,0,0,0,1,0,20220201,20231101
+c_24341_b_34029_d_31,Flex Year Round (Weekday),1,1,1,1,1,0,0,20220201,20231101
+c_24341_b_34029_d_2,Flex Year Round (Tuesday only),0,1,0,0,0,0,0,20220201,20231101
+c_24341_b_34029_d_127,Flex Year Round (All days of week),1,1,1,1,1,1,1,20220201,20231101
+c_20305_b_27086_d_32,Franklin and Grand Isle Starting 7/6/2020 (Saturday only),0,0,0,0,0,1,0,20200706,20231101
+c_20305_b_27086_d_31,Franklin and Grand Isle Starting 7/6/2020 (Weekday),1,1,1,1,1,0,0,20200706,20231101
+c_20305_b_27086_d_2,Franklin and Grand Isle Starting 7/6/2020 (Tuesday only),0,1,0,0,0,0,0,20200706,20231101
+c_18317_b_79897_d_95,R124 (No Saturday),1,1,1,1,1,0,1,20221221,20230402
+c_18317_b_79897_d_32,R124 (Saturday only),0,0,0,0,0,1,0,20221221,20230402
+c_18209_b_79896_d_95,R125 (No Saturday),1,1,1,1,1,0,1,20221221,20230402
+c_18209_b_79896_d_32,R125 (Saturday only),0,0,0,0,0,1,0,20221221,20230402
+c_18204_b_79895_d_127,R122 (All days of week),1,1,1,1,1,1,1,20221221,20230402
+c_18203_b_79894_d_95,R120 (No Saturday),1,1,1,1,1,0,1,20221221,20230402
+c_18203_b_79894_d_32,R120 (Saturday only),0,0,0,0,0,1,0,20221221,20230402
+c_18146_b_78480_d_4,School Trippers (Wednesday only),0,0,1,0,0,0,0,20230501,20230801
+c_18146_b_78480_d_31,School Trippers (Weekday),1,1,1,1,1,0,0,20230501,20230801
+c_18146_b_78480_d_27,School Trippers (MTuThF),1,1,0,1,1,0,0,20230501,20230801
+c_18146_b_78479_d_4,School Trippers (Wednesday only),0,0,1,0,0,0,0,20230308,20230421
+c_18146_b_78479_d_31,School Trippers (Weekday),1,1,1,1,1,0,0,20230308,20230421
+c_18146_b_78479_d_27,School Trippers (MTuThF),1,1,0,1,1,0,0,20230308,20230421

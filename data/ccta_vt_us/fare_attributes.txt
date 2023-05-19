@@ -1,0 +1,10 @@
+agency_id,fare_id,price,currency_type,payment_method,transfers,transfer_duration
+461,1778,1.50,USD,0,,0
+461,1779,2.00,USD,0,0,0
+461,1780,4.00,USD,0,0,0
+461,1783,1.00,USD,0,,0
+461,1784,2.00,USD,0,0,0
+461,1785,0.00,USD,0,,0
+461,1786,0.50,USD,0,,0
+461,3709,1.00,USD,0,0,0
+461,3710,1.00,USD,0,,0

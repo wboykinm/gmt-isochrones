@@ -2,7 +2,7 @@ import csv from 'csvtojson'
 import fs from 'fs'
 
 (async() => {
-    let stops = await csv().fromFile(`./data/google_transit/stops.txt`)
+    let stops = await csv().fromFile(`./data/ccta_vt_us/stops.txt`)
 
     // filter out suffixes 
     stops = stops.filter(d => !d.stop_id.match(/(N|S)$/))

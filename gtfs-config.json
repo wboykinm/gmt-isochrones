@@ -1,7 +1,7 @@
 {
   "agencies": [
     {
-      "path": "./data/google_transit.zip"
+      "path": "./data/ccta-vt-us.zip"
     }
   ],
   "sqlitePath": "./data.sqlite"
